@@ -16,4 +16,4 @@ Raw versions of the RuBisCO, deoA, e2b2, PRK, and FBP/SBPase trees used in the p
 
 The alignments used to generate the paper's main RuBisCO tree is available here in /alignments/.
 
-Other files or information available upon request to [alexander_jaffe@berkeley.edu](alexander_jaffe@berkeley.edu).
+Other files or information available upon request to [alexander_jaffe@berkeley.edu](mailto:alexander_jaffe@berkeley.edu).
