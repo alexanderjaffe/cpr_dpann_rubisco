@@ -4,7 +4,6 @@ CG02_land_8_20_14_3.00_150_scaffold_3515_6	II_III
 CG06_land_8_20_14_3.00_150_scaffold_21999_1	II_III
 cg2_3.0_scaffold_6121_5	II_III
 RAAC1_SR1_1_647	II_III
-Zodeltone_water_scaffold_149489_1	II_III
 DolZOral124_scaffold_14485_4	II_III
 CG_2015-01t_scaffold_70_76	II_III
 rifoxyb2_full_scaffold_114_158	II_III
@@ -32,14 +31,12 @@ UBA5223contig_6548_20	II_III
 gwf2_scaffold_5170_19	II_III
 gwd2_scaffold_5982_7	II_III
 UBA5232contig_5010_25	II_III
-anamox1_scaffold_61439_2	II_III
 CG_4_10_14_0.8_um_filter_scaffold_123569_1	II_III
 CG_4_9_14_3_um_filter_150_scaffold_194919_1	II_III
 CG_2015-10_scaffold_113557_2	II_III
 CG_4_10_14_0.2_scaffold_11904_c_5	II_III
 gwf2_scaffold_9_343	II_III
 UBA2022contig_15642_11	II_III
-Zodeltone_sediment_scaffold_190722_2	II_III
 gwf2_scaffold_2732_6	II_III
 07M_4_2014_scaffold_14364_2	II_III
 gwa2_scaffold_228_63	II_III
@@ -50,13 +47,11 @@ gwf2_scaffold_150_90	II_III
 gwa2_scaffold_61538_7	II_III
 rifoxyb2_full_scaffold_53823_1	II_III
 Crystal_Geyser_CG15_big_fil_post_rev_8_21_14_0.20_scaffold_4700_5	II_III
-scaffold_12031_6	III_like
 gwf2_scaffold_35647_6	III_like
 RIFOXYB1_FULL_GWC1_WS6_33_15_rifoxyb1_full_scaffold_291_15	III_like
 gwd1_scaffold_9197_5	III_like
 bjp_ig2158_scaffold_0_692	III_like
 UBA2278contig_10362_8	III_like
-JGI24025J20009_10005719_3	III_like
 UBA3081contig_986_14	III_like
 UBA2222contig_92676_9	III_like
 UBA2259contig_3196_71	III_like
@@ -69,13 +64,7 @@ gwf1_scaffold_4493_1	III_like
 rifoxyc3_full_scaffold_48488_1	III_like
 gwc1_scaffold_1390_11	III_like
 UBA2177contig_38184_3	III_like
-MPI_scaffold_5797_4	III_like
-MPJ_scaffold_8005_3	III_like
-MPI_scaffold_3343_2	III_like
-MPI_scaffold_4456_2	III_like
 UBA4813contig_29569_18	III_like
-DD1S77SP2S22A_scaffold_190370_1	III_like
-JGI24025J20009_10077561_1	III_like
 rifcsplowo2_01_scaffold_11977_10	III_like
 rifcsphigho2_02_scaffold_438502_1	III_like
 rifcsphigho2_02_sub10_scaffold_110_79	III_like
@@ -119,7 +108,6 @@ rifcsplowo2_02_scaffold_12225_10	III_like
 RIFOXYC1_FULL_GWE2_OD1_42_9_rifoxyc1_full_scaffold_781_14	III_like
 rifcsphigho2_02_scaffold_255720_1	III_like
 rifcsphigho2_01_scaffold_9117_11	III_like
-Zodeltone_sediment_scaffold_262001_1	III_like
 RBG_13_scaffold_565_33	III_like
 RBG_13_OP11_45_10_RBG_13_scaffold_565_32	III_like
 rifoxyb2_full_scaffold_37565_5	III_like
@@ -194,7 +182,6 @@ rifcsplowo2_01_scaffold_157232_1	III
 rifcsplowo2_01_scaffold_16673_1	III
 rifcsphigho2_01_scaffold_21619_3	III
 rifcsplowo2_01_scaffold_45660_7	III
-ngawha_1_scaffold_320_4	III
 RifSed_csp2_10ft_2_scaffold_141884_1	III
 RifSed_csp2_10ft_3_scaffold_402847_1	III
 rifcsphigho2_02_scaffold_49666_4	III
@@ -381,7 +368,6 @@ rbg_19ft_combo_scaffold_2906_2	III
 RBG_16_scaffold_11079_2	III
 RBG_16_scaffold_1633_8	III
 mol-32-1605-070610_1	III
-Zodeltone_sediment_scaffold_325414_2	III
 RifSed_csp2_16ft_2_scaffold_362462_2	III
 rifcsp2_19_4_full_scaffold_215841_1	III
 rifcsplowo2_01_scaffold_118545_1	III
@@ -448,12 +434,9 @@ rifcsphigho2_12_scaffold_162_94_PHAGE	IV_like
 gwa2_scaffold_24083_5	IV_like
 CG09_land_8_20_14_0.10_scaffold_14070_3	IV_like
 imgVR_3300013132_____Ga0172372_10011093_16_PHAGE	IV_like
-amazon_river_scaffold_41_11_PHAGE	IV_like
 imgVR_3300009158_____Ga0114977_10008854_1_PHAGE	IV_like
 imgVR_3300005662_____Ga0078894_10001118_13_PHAGE	IV_like
 imgVR_3300005528_____Ga0068872_10000195_49_PHAGE	IV_like
-BML_082015_26_scaffold_8imgVR_33_4_PHAGE	IV_like
-BML_082016_28_scaffold_177_16_PHAGE	IV_like
 imgVR_3300003410_____JGI26086J50260_1000284_21_PHAGE	IV_like
 imgVR_3300006802_____Ga0070749_10000694_17_PHAGE	IV_like
 imgVR_3300017818_____Ga0181565_10006269_7_PHAGE	IV_like
@@ -465,7 +448,6 @@ imgVR_3300009182_____Ga0114959_10006311_8_PHAGE	IV_like
 imgVR_3300009068_____Ga0114973_10000306_11_PHAGE	IV_like
 imgVR_3300009058_____Ga0102854_1000016_27_PHAGE	IV_like
 imgVR_3300009182_____Ga0114959_10000174_59_PHAGE	IV_like
-ERMGT266_2_scaffold_7202_1	IV_like
 imgVR_3300013131_____Ga0172373_10003100_23_PHAGE	IV_like
 imgVR_3300005805_____Ga0079957_1000004_32_PHAGE	IV_like
 imgVR_3300006810_____Ga0070754_10000068_66_PHAGE	IV_like
@@ -487,7 +469,6 @@ imgVR_3300006026_____Ga0075478_10000002_49_PHAGE	IV_like
 imgVR_3300005605_____Ga0066850_10002422_3_PHAGE	IV_like
 imgVR_3300000116_____DelMOSpr2010_c10002632_7_PHAGE	IV_like
 imgVR_3300018790_____Ga0187842_1000009_46_PHAGE	IV_like
-BML_082015_24_scaffold_6_162_PHAGE	IV_like
 imgVR_3300009154_____Ga0114963_10001892_12_PHAGE	IV_like
 imgVR_3300004686_____Ga0065173_1000025_12_PHAGE	IV_like
 imgVR_3300004770_____Ga0007804_1000749_8_PHAGE	IV_like
@@ -525,8 +506,6 @@ imgVR_3300009181_____Ga0114969_10000030_77_PHAGE	IV_like
 imgVR_3300013093_____Ga0164296_1006299_14_PHAGE	IV_like
 imgVR_3300006108_____Ga0007862_1000138_16_PHAGE	IV_like
 imgVR_3300007516_____Ga0105050_10000484_9_PHAGE	IV_like
-BML_082015_24_scaffold_559_21_PHAGE	IV_like
-ERMGT814_2_scaffold_1_8_PHAGE	IV_like
 imgVR_3300004691_____Ga0065176_1000054_16_PHAGE	IV_like
 imgVR_3300017967_____Ga0181590_10000756_38_PHAGE	IV_like
 rifcsphigho2_12_scaffold_16902_10	IV
@@ -540,9 +519,7 @@ gwd1_scaffold_1521_5	IV
 14_1009_16_20cm_scaffold_137301_2	IV
 CG_2015-09_scaffold_5489_2	IV
 RBG_13_scaffold_14099_11	new
-Zodeltone_sediment_scaffold_284317_2	new
 CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_8060_3	new
-Zodeltone_sediment_scaffold_236263_2	new
 rifoxyc1_full_scaffold_26262_2	new
 rifoxyb1_full_scaffold_633_14	new
 rifcsphigho2_01_scaffold_5271_63	new
@@ -561,7 +538,6 @@ Ig5770_scaffold_3414_3	new
 bjp_ig3402_scaffold_5048_11	new
 bjp_ig2599_scaffold_5183_11	new
 bjp_ig2599_sub10_scaffold_364_11	new
-DGJ9_scaffold_2355_11	new
 CG08_land_8_20_14_0.20_scaffold_141789_1	new
 UBA6264contig_60200_23	new
 ncbi_NATD01000013.1_9	new
@@ -582,7 +558,6 @@ RIFOXYC2_FULL_OD1_48_21_rifoxyc2_full_scaffold_977_4	new
 gwa2_scaffold_5659_22	new
 gwc2_scaffold_633_23	new
 gwc2_scaffold_11863_3	new
-DGJ12_scaffold_1261_12	new
 UBA1558contig_16814_5	new
 UBA1441contig_19953_11	new
 CG_2015-13_scaffold_124523_1	new
@@ -592,18 +567,17 @@ cgr2_combo_scaffold_6030_4	new
 CG_2015-11_scaffold_25419_1	new
 ncbi_AWOG01000022.1_5	unknown
 rifcsplowo2_01_scaffold_4908_46	unknown
-rifcsphigho2_01_scaffold_7865_10	unknown
+rifcsphigho2_01_scaffold_7865_10	III
 UBA96contig_21807_17	unknown
 UBA93contig_1572_78	unknown
 rifcsphigho2_01_scaffold_100504_5	unknown
-UBA153contig_35505_2	unknown
+UBA153contig_35505_2	III
 RifSed_csp2_16ft_2_scaffold_590394_1	unknown
-gwe2_scaffold_12031_6	unknown
+gwe2_scaffold_12031_6	III_like
 LSDeep1_scaffold_289_96	unknown
 mol-32-15fa-040034_9	unknown
 CG08_land_8_20_14_0.20_scaffold_15999_2	unknown
 RBG_16_scaffold_41955_19	unknown
-Zodeltone_sediment_scaffold_343007_31	unknown
 RBG_16_scaffold_32845_14	unknown
 CG_2015-01t_scaffold_2353_6_PHAGE	IV_like
 gwa2_scaffold_13440_1	III
@@ -632,7 +606,6 @@ CG10_big_fil_rev_8_21_14_0.10_scaffold_1834_23	III
 rifcsphigho2_01_scaffold_5232_2	III
 CG_2015-19_scaffold_56610_2	III
 CG08_land_8_20_14_0.20_scaffold_203273_1	III
-Zodeltone_sediment_scaffold_156139_1	III
 CG07_land_8_20_14_0.80_scaffold_42665_1	III
 CG03_land_8_20_14_0.80_scaffold_60991_1	III
 CG03_land_8_20_14_0.80_scaffold_21801_2	III
@@ -640,7 +613,6 @@ rifcsphigho2_02_scaffold_33630_15	III
 rifcsplowo2_01_scaffold_93746_1	III
 gwa2_scaffold_25721_1	III
 CG_2015-13_scaffold_88435_1	III
-DD1S54SP2S20A_scaffold_86836_1	III
 rifcsplowo2_01_scaffold_45645_1	III
 rifcsplowo2_01_scaffold_51891_2	III
 CG13_big_fil_rev_8_21_14_2.50_scaffold_6700_4	III
